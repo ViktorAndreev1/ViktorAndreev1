@@ -1,4 +1,10 @@
-### Hi there 👋 Я Виктор 👀 Меня интересует фронтенд-разработка 🌱 В настоящее время я изучаю HTML/CSS/JavaScript 💞️ Я хочу сотрудничать с работодателем 📫
+- 👋 Hi, I’m Viktor
+- 👀 I’m interested in frontend develop
+- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 💞️ I’m looking to collaborate on employer
+
+
+
 <!--
 **ViktorAndreev1/ViktorAndreev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
