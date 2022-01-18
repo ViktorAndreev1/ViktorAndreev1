@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viktor
 - 👀 I’m interested in frontend/backend develop
-- 🌱 I’m currently learning HTML/CSS/JavaScript/Ruby
+- 🌱 I’m currently learning Ruby on Rails/Ruby/HTML/CSS/JavaScript
 - 💞️ I’m looking to collaborate on employer
 
 
